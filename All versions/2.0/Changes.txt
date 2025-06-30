@@ -1,0 +1,4 @@
+Added some new payloads
+New MBR
+
+Reminder that I will no longer update this trojan and focus more on other stuff
