@@ -7,3 +7,6 @@ Maxi's showcase (watch for information and how it looks like)<br>https://youtu.b
 
 # For skids
 I know you are gonna skid from me and claim everything you did is "YOURUUUSSRRS!!111!1!", so I added a MIT license.
+
+# Note
+The malware is in W.I.P, so that means I usally update it with new features and other things.
