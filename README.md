@@ -10,3 +10,8 @@ I know you are gonna skid from me and claim everything you did is "YOURUUUSSRRS!
 
 # Note
 The malware is in W.I.P, so that means I usally update it with new features and other things.
+
+# Screenshots
+![bro](https://github.com/user-attachments/assets/1602429e-1a4d-4515-80ce-455b5b365301)
+
+![ts](https://github.com/user-attachments/assets/ab5d000c-a794-4be3-9fb3-d89cf3c432b8)
